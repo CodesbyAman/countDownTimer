@@ -54,7 +54,7 @@ input{
     text-align: center;
     font-size: 30px;
     margin-bottom: 10px;
-    color:red;
+    color:magenta;
     box-shadow: 0 0 30px;
 }
 #enroll{
@@ -77,6 +77,6 @@ input{
     margin-left: 100px;
 }
 #enrollButton:hover{
-    background-color:rgb(47, 47, 163);
+    background-color:rgb(79, 79, 207);
     cursor: pointer;
 }
